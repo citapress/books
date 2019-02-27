@@ -1,4 +1,4 @@
-# books
+# books for citapress
 
 This repository contains the books for **[cita](http://citapress.org)** in [Markdown](https://guides.github.com/features/mastering-markdown/) format. 📚
 
