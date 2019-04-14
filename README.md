@@ -2,9 +2,9 @@
 
 This repository contains the books for **[cita](http://citapress.org)** in [Markdown](https://guides.github.com/features/mastering-markdown/) format. 📚
 
-## How to contribute (for artists, designers, writers or editors 🖍)
+## How to contribute (for artists/designers 💻, writers/editors 🖍)
 
-Make sure to read the [README.md in the main repository](https://github.com/citapress/citapress) first to find out more about the project. 💙
+Make sure to read the [README.md in the main repository](https://github.com/citapress/citapress) first to find out more about the project. 💙 **If you're a developer**, make sure to [check out the issues on the main Cita repo](https://github.com/citapress/citapress/labels/development).
 
 We manage out tasks using Github issues. An ***issue*** is a self contained task. These issues are organized in ***projects***, where each book in progress has a corresponding project. You can see our list of books under the 'Projects' tab or by clicking here.
 
