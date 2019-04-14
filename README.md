@@ -8,7 +8,7 @@ Make sure to read the [README.md in the main repository](https://github.com/cita
 
 We manage out tasks using Github issues. An ***issue*** is a self contained task. These issues are organized in ***projects***, where each book in progress has a corresponding project.
 
-You can see our list of books under development on the [**Projects** tab or by clicking here](https://github.com/citapress/books/projects).
+**You can see our list of books under development on the [Projects tab or by clicking here](https://github.com/citapress/books/projects).**
 
 ### I wanna get started and help out!
 
