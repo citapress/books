@@ -24,9 +24,7 @@ This is an example of how the book files should be structured:
 
 Hi! We're very excited you're interested in contributing to Cita. All of our work is done by volunteers and we welcome you with open arms and lots of emoji. 🤓
 
-We manage out tasks using **issues**. An ***issue*** is a self-contained task. These issues are organized in ***projects***, where each book in progress has its corresponding project.
-
-**You can see our list of books under development on the [Projects tab or by clicking here](https://github.com/citapress/books/projects).**
+We manage out tasks using **issues**. An ***issue*** is a self-contained task. 
 
 ### I wanna get started and help out!
 
