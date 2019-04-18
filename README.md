@@ -4,6 +4,22 @@ This repository contains the books for **[cita](http://citapress.org)** in [Mark
 
 Make sure to read the [README.md in the main repository](https://github.com/citapress/citapress) first to find out more about the project. 💙 **If you're a developer**, make sure to [check out the issues on the main Cita repo](https://github.com/citapress/citapress/labels/development).
 
+## Folder structure
+
+This is an example of how the book files should be structured:
+
+* *\[the-awakening\]*
+    * *content.md*
+    * *cover.png*
+    * *foreword.md*
+    * *thumbnail.png*
+* *\[the-yellow-wallpaper\]*
+    * *content.md*
+    * *cover.png*
+    * *foreword.md*
+    * *thumbnail.png*
+(...)
+
 ## How to contribute (for artists, designers, writers or editors )
 
 Hi! We're very excited you're interested in contributing to Cita. All of our work is done by volunteers and we welcome you with open arms and lots of emoji. 🤓
