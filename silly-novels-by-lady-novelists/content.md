@@ -1,4 +1,6 @@
-### []{#page178}[p. 178]{.pagenum}VI.  SILLY NOVELS BY LADY NOVELISTS.
+# Silly Novels by Lady Novelists
+George Eliot
+
 
 Silly Novels by Lady Novelists are a genus with many species, determined
 by the particular quality of silliness that predominates in them---the
