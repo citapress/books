@@ -8,12 +8,12 @@ Make sure to read the [README.md in the main repository](https://github.com/cita
 
 This is an example of how the book files should be structured:
 
-* *\[the-awakening\]*
+* **the-awakening/**
     * *content.md*
     * *cover.png*
     * *foreword.md*
     * *thumbnail.png*
-* *\[the-yellow-wallpaper\]*
+* **the-yellow-wallpaper/**
     * *content.md*
     * *cover.png*
     * *foreword.md*
